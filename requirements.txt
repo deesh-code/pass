@@ -6,3 +6,4 @@ appwrite
 pandas
 python-dotenv
 langchain_community
+openai
